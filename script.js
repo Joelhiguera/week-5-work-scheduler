@@ -45,7 +45,7 @@ $(".saveBtn").on("click", function () {
 })
 
 
-
+// getting stored items from local storage to display on the web page
 $("#9 .description").val(localStorage.getItem("9"))
 $("#10 .description").val(localStorage.getItem("10"))
 $("#11 .description").val(localStorage.getItem("11"))
