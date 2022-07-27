@@ -9,6 +9,7 @@ SO THAT I can manage my time effectively
 ## APPLICATION SCREEN SHOT
 ![Alt text](/week%205%20screenshot.PNG)
 
-## LINK TO APPLICATION
+## LINKS
 
 Link: https://joelhiguera.github.io/week-5-work-scheduler/
+GitHub: https://github.com/Joelhiguera/week-5-work-scheduler
